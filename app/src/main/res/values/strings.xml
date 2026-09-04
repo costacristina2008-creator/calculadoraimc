@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Calculadora de IMC</string>
+    <string name="titulo_app">CALCULADORA DE IMC</string>
+    <string name="subtitulo_app">ÍNDICE DE MASSA CORPORAL</string>
+    <string name="label_peso">Peso</string>
+    <string name="label_altura">Altura</string>
+    <string name="unit_peso">Kg</string>
+    <string name="unit_altura">m</string>
+    <string name="btn_calcular">Calcular IMC</string>
+    <string name="label_resultado">RESULTADO</string>
+    <string name="erro_entrada">Entrada inválida</string>
+
+    <string name="nome_aluno">Desenvolvido por: Cristina Costa teixeira</string>
+
+    <string name="abaixo_peso">Abaixo do peso</string>
+    <string name="peso_normal">Peso normal</string>
+    <string name="sobrepeso">Sobrepeso</string>
+    <string name="obesidade_1">Obesidade grau I</string>
+    <string name="obesidade_2">Obesidade grau II</string>
+    <string name="obesidade_3">Obesidade grau III</string>
+</resources>
